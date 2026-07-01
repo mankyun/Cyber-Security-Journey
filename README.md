@@ -1,5 +1,5 @@
 # Cyber-Security-Journey
-# 🛡️ My Cybersecurity Journey
+## 🛡️ My Cybersecurity Journey
 
 Welcome to my cybersecurity learning repository! This project serves as a personal knowledge base to document my daily progress, technical write-ups, and hands-on practice from [TryHackMe](https://tryhackme.com/).
 
