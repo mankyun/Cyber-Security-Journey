@@ -8,3 +8,13 @@ The primary goal of this repository is to bridge the gap between theory and prac
 
 - **Focus:** Hands-on security labs, CTF write-ups, and tool exploration.
 - **Goal:** To track consistency and build a repository of practical skills in network and application security.
+
+## 📚 Contents
+
+### 🤖 AI Security
+
+| Room / Topic | Notes |
+|---|---|
+| RAG Security Fundamentals | [Read](AI-Security/RAG-Security-Fundamentals/README.md) |
+| Data Poisoning in RAG Systems | [Read](AI-Security/Data-Poisoning-in-RAG-Systems/README.md) |
+| Securing the AI Supply Chain | [Read](AI-Security/Securing-the-AI-Supply-Chain/README.md) |
